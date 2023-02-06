@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateFeeCalculatorService", "LateFeeCalculatorService\LateFeeCalculatorService.csproj", "{6ECD3C80-7BC4-47F8-A64E-D72BAE4259FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateFeeCalculatorTest", "LateFeeCalculatorTest\LateFeeCalculatorTest.csproj", "{B5514393-D7CA-4C7E-87E8-D47832539023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B69B9BC4-427D-401F-9B47-A76DC6A6A90E}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECD3C80-7BC4-47F8-A64E-D72BAE4259FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECD3C80-7BC4-47F8-A64E-D72BAE4259FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECD3C80-7BC4-47F8-A64E-D72BAE4259FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECD3C80-7BC4-47F8-A64E-D72BAE4259FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5514393-D7CA-4C7E-87E8-D47832539023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5514393-D7CA-4C7E-87E8-D47832539023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5514393-D7CA-4C7E-87E8-D47832539023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5514393-D7CA-4C7E-87E8-D47832539023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15F0AA1-D5E2-4A91-A90D-5E426086EA2C}
+	EndGlobalSection
+EndGlobal
